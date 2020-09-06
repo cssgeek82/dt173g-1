@@ -1,0 +1,11 @@
+body { 
+    background-color: #3a4950; 
+}
+#wrap { 
+    background-color: #96a4aa; 
+    color: #000; 
+    max-width: 800px;
+    margin: auto; 
+    padding: 10px; 
+}
+
